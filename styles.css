@@ -18,7 +18,6 @@ footer {
 
 .w {
   background-image: url("images/tom1.png");
-
 }
 
 .a {
@@ -34,7 +33,7 @@ footer {
 }
 
 .j {
-  background-image: url("images/kick.png");
+  background-image: url("images/snare.png");
 }
 
 .k {
@@ -42,16 +41,11 @@ footer {
 }
 
 .l {
-  background-image: url("images/snare.png");
+  background-image: url("images/kick.png");
 }
 
 .set {
   margin: 10% auto;
-}
-
-.game-over {
-  background-color: red;
-  opacity: 0.8;
 }
 
 .pressed {
